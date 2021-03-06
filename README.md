@@ -73,3 +73,8 @@ Hello, my name is Junior, 30 years old. I'm a web developer. Graduated in Analys
 [![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&link=https://styled-components.com/)](https://styled-components.com/)
 [![Bootsrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![MaterialUI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&link=https://material-ui.com/pt/)](https://material-ui.com/pt/)
+
+### 🗃Version
+
+[![MaterialUI Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+
