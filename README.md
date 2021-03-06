@@ -39,8 +39,6 @@ I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate
 
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 
-[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
-
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
 
 [![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://reactnative.dev/)](https://reactnative.dev/)
@@ -48,6 +46,18 @@ I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate
 [![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&link=https://vuejs.org/)](https://vuejs.org/)
 
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://angular.io/)](https://angular.io/)
+
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://www.w3schools.com/howto/howto_website.asp)
+
+
+[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+
+
+
+
+
+
+
 
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
