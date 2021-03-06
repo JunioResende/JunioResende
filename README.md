@@ -24,3 +24,13 @@ Here are some ideas to get you started:
 ---
 
 # Welcome to my profile!😄
+
+---
+
+# About
+
+
+Systems Analyst and Developer | Technologist in Geprocessing. Passionate about technology!
+
+---
+
