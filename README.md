@@ -57,6 +57,12 @@ I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate
 [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
 [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
 
+### ⚙️Database🏦
+
+[![Postgress Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
+[![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&link=https://www.sqlite.org/index.html)](https://www.sqlite.org/index.html)
 
 
 
