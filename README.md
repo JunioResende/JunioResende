@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 
 
-# Welcome to my profile!😄
+## Welcome to my profile!😄
 
 
 
-# 📖 About
+## 📖 About
 
 
 Hello, my name is Junio, I'm 30 years old.
 I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate about technology!
 
-# 🚀 Skills 🔝
+## 🚀 Skills 🔝
 
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
 
