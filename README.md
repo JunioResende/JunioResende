@@ -55,7 +55,7 @@ I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate
 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://sass-lang.com/)](https://sass-lang.com/)
 
-[![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&logoColor=white&link=https://styled-components.com/)](https://styled-components.com/)
+[![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&link=https://styled-components.com/)](https://styled-components.com/)
 
 [![Bootsrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 
