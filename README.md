@@ -33,7 +33,7 @@ I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate
 
 # 🚀 Skills 🔝
 
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
+-[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
 
 
 
