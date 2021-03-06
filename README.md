@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/junio.res3nde/)](https://www.instagram.com/junio.res3nde/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junio.resende.754/)](https://www.facebook.com/junio.resende.754/)
 [![Twiter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/JunioResende3)](https://twitter.com/JunioResende3)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=Junio Resende#9393)](Junio Resende#9393)
-
