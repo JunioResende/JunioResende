@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 📖 About
 
 
-Hello, my name is Junior, 30 years old. I'm a web developer. Graduated in Analysis and Development of Systems and Technology in Geoprocessing. I'm in love with Technology!
+Hello, my name is Junio, 30 years old. I'm a web developer. Graduated in Analysis and Development of Systems and Technology in Geoprocessing. I'm in love with Technology!
 
 ## 🚀 Skills 🔝
 
