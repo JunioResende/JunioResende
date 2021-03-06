@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 ## 📖 About
 
 
-Hello, my name is Junio, I'm 30 years old.
-I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate about technology!
+Hello, my name is Junior, 30 years old. I'm a web developer. Graduated in Analysis and Development of Systems and Technology in Geoprocessing. I'm in love with Technology!
 
 ## 🚀 Skills 🔝
 
