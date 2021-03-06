@@ -25,10 +25,17 @@ Here are some ideas to get you started:
 
 
 
-# About
+# 📖 About
 
 
-Systems Analyst and Developer | Technologist in Geprocessing. Passionate about technology!
+Hello, my name is Junio, I'm 30 years old.
+I am a Systems Analyst and Developer | Technologist in Geoprocessing. Passionate about technology!
+
+# 🚀 Skills 🔝
+
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
+
+
 
 
 
