@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junio.resende.754/)](https://www.facebook.com/junio.resende.754/)
 [![Twiter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/JunioResende3)](https://twitter.com/JunioResende3)
 
+<br>
 
 
-## Welcome to my profile!😄
+
+# Welcome to my profile!😄
 
 
 
@@ -30,11 +32,15 @@ Here are some ideas to get you started:
 
 Hello, my name is Junio, 30 years old. I'm a web developer. Graduated in Analysis and Development of Systems and Technology in Geoprocessing. I'm in love with Technology!
 
+<br>
+
 ## 🚀 Skills 🔝
 
 ### ⚙️Development Environment
 
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+
+<br>
 
 ### ⚙️Backend 🛠
 
@@ -42,6 +48,8 @@ Hello, my name is Junio, 30 years old. I'm a web developer. Graduated in Analysi
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/pt-br/)](https://expressjs.com/pt-br/)
+
+<br>
 
 ### ⚙️Database🏦
 
@@ -51,11 +59,15 @@ Hello, my name is Junio, 30 years old. I'm a web developer. Graduated in Analysi
 [![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&link=https://www.sqlite.org/index.html)](https://www.sqlite.org/index.html)
 [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&link=https://firebase.google.com/?hl=pt-br)](https://firebase.google.com/?hl=pt-br)
 
+<br>
+
 ### ⚡️Deploy
 
 [![HEROKU Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://www.heroku.com/)](https://www.heroku.com/)
 [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
 [![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&link=https://cloud.google.com/)](https://cloud.google.com/)
+
+<br>
 
 
 ### 💻Frontend📱
@@ -74,16 +86,25 @@ Hello, my name is Junio, 30 years old. I'm a web developer. Graduated in Analysi
 [![Bootsrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![MaterialUI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&link=https://material-ui.com/pt/)](https://material-ui.com/pt/)
 
+<br>
+
 ### 🗃Version
 
 [![MaterialUI Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+
+<br>
 
 ### ⬇️Packages Installer
 [![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
 [![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunioResende&layout=compact)](https://github.com/JunioResende/github-readme-stats) 
+---
 
+<br>
 
+## ⭐️ My Stats
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunioResende&layout=compact)](https://github.com/JunioResende/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunioResende&show_icons=true&theme=dracula)
 
