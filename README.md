@@ -82,6 +82,8 @@ Hello, my name is Junio, 30 years old. I'm a web developer. Graduated in Analysi
 [![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
 [![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://www.npmjs.com/)](https://www.npmjs.com/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunioResende&layout=compact)](https://github.com/JunioResende/github-readme-stats) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunioResende&show_icons=true&theme=dracula)
+
