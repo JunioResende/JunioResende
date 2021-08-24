@@ -115,7 +115,8 @@ Hello, my name is Junio, 30 years old. I'm a web developer. Graduated in Analysi
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunioResende&layout=compact)](https://github.com/JunioResende/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JunioResende=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunioResende&show_icons=true&theme=radical)
+
 
 
 
